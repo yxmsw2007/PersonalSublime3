@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/*--------------------------------------------------------------------------------- 
+【函数说明】: ${1:无}
+【函数参数】: ${2:无}
+【函数返回】: ${3:无}
+【函数作者】: ${4:yexiaoming}
+-----------------------------------------------------------------------------------*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>FunC</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<scope>source.c,source.h</scope>
+</snippet>

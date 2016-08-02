@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+#ifndef 	${1:_EXAMPLE_H}          
+#define     ${2:_EXAMPLE_H}
+
+#include 	"${3:_EXAMPLE_H}"
+
+#endif
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>ifndef</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

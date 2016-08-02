@@ -1,0 +1,14 @@
+{
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeCodeIntel-master",
+		"SublimeClang-1.0.41"
+	],
+	"theme": "Soda Dark 3.sublime-theme",
+	"update_check": false,
+	"word_wrap": "auto"
+}

@@ -1,0 +1,8 @@
+{
+  //   define your own patterns
+  "named_patterns": {
+  //   "eq" : "=/f",
+  //   right hand side could also be an array of inputs
+  //   "ifthen" : ["=/f", "\\?/f", ":/f"]
+  }
+}

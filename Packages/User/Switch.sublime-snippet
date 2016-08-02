@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+switch(${1:int})
+{
+    case ${2:0}:
+		${3:}
+    break;
+    case ${4:1}:
+    	${5:}
+    break; 
+    default:
+		${6:}
+    break;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+
+	<tabTrigger>switch</tabTrigger>
+	<scope>source.c</scope>
+</snippet>

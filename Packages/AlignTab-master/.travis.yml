@@ -1,0 +1,24 @@
+os:
+  - linux
+  - osx
+
+env:
+    - PACKAGE="AlignTab" SUBLIME_TEXT_VERSION="3"
+
+before_install:
+    - curl -OL https://raw.githubusercontent.com/randy3k/UnitTesting/master/sbin/travis.sh
+
+install:
+    - sh travis.sh bootstrap
+
+script:
+    - sh travis.sh run_tests --coverage
+
+after_success:
+    - sudo pip install python-coveralls
+    - coveralls
+
+notifications:
+    email:
+        on_success: change
+        on_failure: change

@@ -1,0 +1,15 @@
+[
+    {
+        "command": "file_header_comments",
+        "keys": [
+            "ctrl+shift+j"
+        ]
+    },
+	{
+        "command": "file_header_comments_cn",
+        "keys": [
+            "ctrl+alt+shift+j"
+        ]
+    }
+
+]
