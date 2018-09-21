@@ -1,124 +1,124 @@
 # PersonalSublime3
 Sublime Settings
 
-��һ�³��õĿ�ݼ�
-Alt+O	����ʵ��ͷ�ļ���Դ�ļ�֮��Ŀ����л� 
+列一下常用的快捷键
+Alt+O	可以实现头文件和源文件之间的快速切换 
 
-Ctrl+Shift+T	���Դ�֮ǰ�رյ�tabҳ
+Ctrl+Shift+T	可以打开之前关闭的tab页
 
-Ctrl+D ѡ�� ����������ݼ������ɼ�������ͬʱѡ����һ����ͬ���ı�����ͬʱ�༭��
+Ctrl+D 选词 （反复按快捷键，即可继续向下同时选中下一个相同的文本进行同时编辑）
 
-Ctrl+G ��ת����Ӧ����
+Ctrl+G 跳转到相应的行
 
-Ctrl+J �ϲ��У���ѡ����Ҫ�ϲ��Ķ���ʱ��
+Ctrl+J 合并行（已选择需要合并的多行时）
 
-Ctrl+L ѡ�����У���ס-����ѡ�����У�
+Ctrl+L 选择整行（按住-继续选择下行）
 
-Ctrl+M ����ƶ��������ڿ�ʼ�������λ��
+Ctrl+M 光标移动至括号内开始或结束的位置
 
-Ctrl+T �ʻ���
+Ctrl+T 词互换
 
-Ctrl+U ������
+Ctrl+U 软撤销
 
-Ctrl+P ���ҵ�ǰ��Ŀ�е��ļ��Ϳ������������� @ �����ļ�������/�������������� : ��ת���ļ�ĳ�У�
+Ctrl+P 查找当前项目中的文件和快速搜索；输入 @ 查找文件主标题/函数；或者输入 : 跳转到文件某行；
 
-Ctrl+R �����г�/��ת��ĳ������
+Ctrl+R 快速列出/跳转到某个函数
 
-Ctrl+K Backspace �ӹ�괦ɾ��������
+Ctrl+K Backspace 从光标处删除至行首
 
-Ctrl+KB ����/�رղ����
+Ctrl+KB 开启/关闭侧边栏
 
-Ctrl+KK �ӹ�괦ɾ������β
+Ctrl+KK 从光标处删除至行尾
 
-Ctrl+KT �۵�����
+Ctrl+KT 折叠属性
 
-Ctrl+KU ��Ϊ��д
+Ctrl+KU 改为大写
 
-Ctrl+KL ��ΪСд
+Ctrl+KL 改为小写
 
-Ctrl+K0 չ������
+Ctrl+K0 展开所有
 
-Ctrl+Enter �����к󣨿��ٻ��У�
+Ctrl+Enter 插入行后（快速换行）
 
-Ctrl+Tab ��ǰ�����еı�ǩҳ�л�
+Ctrl+Tab 当前窗口中的标签页切换
 
-Ctrl+Shift+A ѡ����λ�ø���ǩ�Զ�
+Ctrl+Shift+A 选择光标位置父标签对儿
 
-Ctrl+Shift+D ���ƹ���������У������ڸ���֮ǰ
+Ctrl+Shift+D 复制光标所在整行，插入在该行之前
 
-ctrl+shift+F ���ļ����ڲ��ң�����ͨ�༭����ͬ�ĵط���sublime�������Ӷ���ļ��н��в���
+ctrl+shift+F 在文件夹内查找，与普通编辑器不同的地方是sublime允许添加多个文件夹进行查找
 
-Ctrl+Shift+K ɾ������
+Ctrl+Shift+K 删除整行
 
-Ctrl+Shift+L ���ѡ�ж��У����¿�ݼ���������ͬʱ�༭��Щ��
+Ctrl+Shift+L 鼠标选中多行（按下快捷键），即可同时编辑这些行
 
-Ctrl+Shift+M ѡ�������ڵ����ݣ���ס-����ѡ�����ţ�
+Ctrl+Shift+M 选择括号内的内容（按住-继续选择父括号）
 
-Ctrl+Shift+P ���������
+Ctrl+Shift+P 打开命令面板
 
-Ctrl+Shift+/ ע����ѡ������
+Ctrl+Shift+/ 注释已选择内容
 
-Ctrl+Shift+�������ƶ����д��룬�����л���
+Ctrl+Shift+↑可以移动此行代码，与上行互换
 
-Ctrl+Shift+�������ƶ����д��룬�����л���
+Ctrl+Shift+↓可以移动此行代码，与下行互换
 
-Ctrl+Shift+[ �۵�����
+Ctrl+Shift+[ 折叠代码
 
-Ctrl+Shift+] չ������
+Ctrl+Shift+] 展开代码
 
-Ctrl+Shift+Enter ���ǰ������
+Ctrl+Shift+Enter 光标前插入行
 
-Ctrl+PageDown ��Ctrl+PageUp �ļ���������ǰ��˳���л�
+Ctrl+PageDown 、Ctrl+PageUp 文件按开启的前后顺序切换
 
-Ctrl+Z ����
+Ctrl+Z 撤销
 
-Ctrl+Y �ָ�����
+Ctrl+Y 恢复撤销
 
-Ctrl+F2 ����/ɾ����ǩ
+Ctrl+F2 设置/删除书签
 
-Ctrl+/ ע�����У�����ѡ�����ݣ�ͬ��Ctrl+Shift+/��Ч����
+Ctrl+/ 注释整行（如已选择内容，同“Ctrl+Shift+/”效果）
 
-Ctrl+������ ����ͬʱѡ��Ҫ�༭�Ķദ�ı�
+Ctrl+鼠标左键 可以同时选择要编辑的多处文本
 
-Shift+����Ҽ�����ʹ������м����������������������ѡ��
+Shift+鼠标右键（或使用鼠标中键）可以用鼠标进行竖向多行选择
 
-Shift+F2 ��һ����ǩ
+Shift+F2 上一个书签
 
-Shift+Tab ȥ������
+Shift+Tab 去除缩进
 
-Alt+Shift+1~9����С���̣���Ļ��ʾ������ֵ�С����
+Alt+Shift+1~9（非小键盘）屏幕显示相等数字的小窗口
 
-Alt+. �պϵ�ǰ��ǩ
+Alt+. 闭合当前标签
 
-Alt+F3 ѡ���ı����¿�ݼ�������һ����ѡ��ȫ������ͬ�ı�����ͬʱ�༭
+Alt+F3 选中文本按下快捷键，即可一次性选择全部的相同文本进行同时编辑
 
-Tab ���� �Զ����
+Tab 缩进 自动完成
 
-F2 ��һ����ǩ
+F2 下一个书签
 
-F9 ������(��a-z)
+F9 行排序(按a-z)
 
-F11 ȫ��ģʽ
+F11 全屏模式
 
-Shift+F11 ȫ�������ģʽ��ֻ�༭��ǰ�ļ�
+Shift+F11 全屏免打扰模式，只编辑当前文件
 
-ctrl+[��] ���Ӻͼ�������
+ctrl+[或] 增加和减少缩进
 
-ctrl+x �����л�ѡ����
+ctrl+x 剪切行或选中项
 
-ctrl+shift+v ճ������������
+ctrl+shift+v 粘贴并保持缩进
 
-alt+shift+w �ñ�ǩ�����л�ѡ����
+alt+shift+w 用标签包裹行或选中项
 
-ctrl+shift+; �Ƴ�δ�պϵ�����Ԫ�أ�����Ƴ�����Ĺ����صĸ���ǩ��
+ctrl+shift+; 移除未闭合的容器元素（这会移除与你的光标相关的父标签）
 
-ctrl+shift+y ������ѧ����ʽ
+ctrl+shift+y 计算数学表达式
 
-alt+shift+�� �� ����ctrl+ �� �� ��  �����͵ݼ�����סshift����10�Ĳ����ı�����, ����ס��1Ϊ����. ͬʱע�⵽�㲻��Ҫѡ������, Ĭ�ϸ��±�����������֣�
+alt+shift+↑ 或 ↓，ctrl+ ↑ 或 ↓  递增和递减（按住shift将以10的步长改变数字, 不按住以1为步长. 同时注意到你不需要选择数字, 默认更新本行最近的数字）
 
-Alt+���� �л��򿪵�N���ļ�
+Alt+数字 切换打开第N个文件
 
-Shift+�Ҽ��϶� ���಻���������Ļ����������
+Shift+右键拖动 光标多不，用来更改或插入列内容
 
 CoolFormat
 Ctrl+Shift+Alt+Q: Quick Format.
@@ -169,7 +169,7 @@ Go back = ``Control+Windows+Alt+Left``
 Manual Code Intelligence = ``Control+Shift+space``
 
 cscope
-cscope -R -b	����cscope.out���
+cscope -R -b	生成cscope.out命令：
 
 Ctrl/Super + \ - Show Cscope options
 Ctrl/Super + LCtrl/Super + S - Look up symbol under cursor
@@ -178,3 +178,7 @@ Ctrl/Super + LCtrl/Super + E - Look up functions called by the function under th
 Ctrl/Super + LCtrl/Super + R - Look up functions calling the function under the cursor
 Ctrl/Super + Shift + [ - Jump back
 Ctrl/Super + Shift + ] - Jump forward
+
+sublime_alignment
+代码快速对齐
+Ctrl + Alt + A  
