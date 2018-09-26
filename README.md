@@ -182,3 +182,6 @@ Ctrl/Super + Shift + ] - Jump forward
 sublime_alignment
 代码快速对齐
 Ctrl + Alt + A  
+
+[
+Sublime Text 特色插件推荐，持续更新！](https://segmentfault.com/a/1190000004949578)
